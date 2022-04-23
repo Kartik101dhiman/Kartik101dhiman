@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Kartik101dhiman
 - 👀 I’m interested in learning new tech
-- 🌱 I’m currently learning c++ and javascript
+- 🌱 I’m currently learning javascript
